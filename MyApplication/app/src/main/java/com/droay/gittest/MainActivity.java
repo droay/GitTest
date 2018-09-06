@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"我是开发分支877？？？？？",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"我是开发分支888？？？？？",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"我是开发分支87722！！！！！！！",Toast.LENGTH_LONG).show();
-        Toast.makeText(this,"teset rebase1",Toast.LENGTH_LONG).show();
-        Toast.makeText(this,"teset rebase2",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"teset rebase1？",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"teset rebase2！",Toast.LENGTH_LONG).show();
     }
 }
