@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"我是开发分支87722！！！！！！！",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"branch1",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"branch2",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"branch2",Toast.LENGTH_LONG).show();
     }
 }
