@@ -46,5 +46,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"branch pair1",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"branch pair2",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"master oo1",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"master oo2",Toast.LENGTH_LONG).show();
     }
 }
