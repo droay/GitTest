@@ -43,5 +43,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"branch merge1",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"master pair1",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"master pair2",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"branch pair1",Toast.LENGTH_LONG).show();
     }
 }
