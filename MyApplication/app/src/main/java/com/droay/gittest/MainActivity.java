@@ -42,9 +42,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"branch apple3",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"test merge1",Toast.LENGTH_LONG).show();
 
-        Toast.makeText(this,"branch merge1",Toast.LENGTH_LONG).show();
-        Toast.makeText(this,"master pair1",Toast.LENGTH_LONG).show();
-        Toast.makeText(this,"master pair2",Toast.LENGTH_LONG).show();
+        test1();
         Toast.makeText(this,"branch pair1",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"branch pair2",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"master oo1",Toast.LENGTH_LONG).show();
@@ -55,5 +53,11 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"branch pp2",Toast.LENGTH_LONG).show();
 
 
+    }
+
+    private void test1() {
+        Toast.makeText(this,"branch merge1",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"master pair1",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"master pair2",Toast.LENGTH_LONG).show();
     }
 }
